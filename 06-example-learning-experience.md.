@@ -1,0 +1,406 @@
+# Trustworthy AI Enablement: Example Learning Experience
+
+[← Back to Assessment Approach](05-assessment-approach.md) | [Back to README](README.md)
+
+## Purpose
+
+This page provides one representative example of how the portfolio concepts can be translated into a practical learning experience.
+
+The example demonstrates how a learner can move from an AI-enabled workplace situation to a more deliberate decision about **trustworthiness, human oversight, responsible GenAI boundaries, and monitoring**.
+
+It is intentionally presented as a representative learning design rather than a complete facilitator guide or implementation playbook.
+
+---
+
+## Learning Experience at a Glance
+
+**Audience:** Managers, decision makers, functional leaders, and people responsible for supervising AI-enabled workflows
+
+**Format:** Scenario-based decision learning
+
+**Primary focus:** Responsible GenAI use, human oversight, accountability, and monitoring
+
+**AI RMF-informed lens:** GOVERN → MAP → MEASURE → MANAGE
+
+**Core capability:** Making more informed decisions about when and how AI-generated outputs should influence work
+
+---
+
+## The Scenario
+
+### The Plausible Recommendation
+
+A business team begins using a generative AI assistant to summarize information and prepare recommendations for managers.
+
+The assistant is fast and produces professional-looking outputs.
+
+The team quickly sees productivity benefits.
+
+After several weeks, however, a manager notices that some recommendations contain omissions that were not immediately obvious.
+
+The team now faces a decision:
+
+> **Should the workflow continue as designed, be modified, or have additional controls introduced?**
+
+The situation is deliberately realistic rather than catastrophic.
+
+The AI system is producing useful outputs.
+
+The concern is whether the organization is becoming **too confident in outputs that still require human judgment and verification**.
+
+---
+
+## Step 1 — Observe the Situation
+
+The learner first receives the scenario without being given the answer.
+
+The objective is to avoid beginning with a lecture about AI risk.
+
+Instead, the learner must identify what deserves attention.
+
+### Prompt
+
+> What is the most important issue to investigate before allowing the workflow to continue unchanged?
+
+Possible considerations include:
+
+* output reliability
+* incomplete information
+* inappropriate reliance
+* human oversight
+* accountability
+* monitoring
+* workflow boundaries
+
+### Learning Purpose
+
+This step develops the ability to **recognize a trustworthy AI consideration in context**.
+
+---
+
+## Step 2 — Clarify the Context
+
+The learner is then asked to examine the intended use.
+
+### Prompt
+
+> What additional context would help determine whether the current workflow is appropriate?
+
+Possible questions include:
+
+* What type of decisions are informed by the output?
+* Who is affected by those decisions?
+* How consequential are the decisions?
+* What information does the system use?
+* What information might it omit?
+* Who reviews the output?
+* What authority does the reviewer have?
+* What happens when the reviewer disagrees with the output?
+
+### AI RMF-Informed Lens
+
+This stage connects primarily with **MAP**.
+
+The learner is encouraged to consider the system within its broader context rather than evaluating the AI output in isolation.
+
+---
+
+## Step 3 — Examine Human Oversight
+
+The scenario then introduces a critical distinction:
+
+> A human is currently expected to review the AI-generated recommendation before it is used.
+
+The learner must determine whether this arrangement represents meaningful oversight.
+
+### Prompt
+
+> What would make the human review meaningful rather than simply procedural?
+
+Possible considerations:
+
+* The reviewer understands the purpose and limitations of the AI output.
+* The reviewer has access to sufficient supporting information.
+* The reviewer can question or reject the recommendation.
+* The reviewer has authority to intervene.
+* The workflow provides enough time for appropriate review.
+* Escalation is available when uncertainty is significant.
+
+### Learning Purpose
+
+The learner moves from recognizing "human involvement" to evaluating **the quality and effectiveness of human oversight**.
+
+---
+
+## Step 4 — Evaluate the Trade-Off
+
+The team now reports that additional review will reduce some of the expected productivity gains.
+
+The learner must consider the trade-off.
+
+### Decision Point
+
+> Which response is most appropriate?
+
+**Option A — Maximize efficiency**
+
+Continue using the recommendations with minimal review because the system has demonstrated productivity benefits.
+
+**Option B — Remove the AI workflow**
+
+Stop using the assistant because AI-generated recommendations cannot be guaranteed to be correct.
+
+**Option C — Introduce proportionate controls**
+
+Continue using the assistant while defining appropriate review requirements, boundaries, escalation conditions, and monitoring.
+
+**Option D — Require identical review for every situation**
+
+Apply the same intensive review process regardless of the type or consequence of the decision.
+
+### Learning Purpose
+
+The strongest response is not simply "use AI" or "do not use AI."
+
+The learner must recognize that **controls should be appropriate to the context and potential impact**.
+
+---
+
+## Step 5 — Define Responsible Boundaries
+
+The learner is asked to establish conditions for continued use.
+
+### Prompt
+
+> What should the team clarify before expanding the workflow?
+
+Possible considerations include:
+
+* which tasks are appropriate for GenAI assistance
+* which outputs require verification
+* which decisions require human approval
+* what information may be entered into the system
+* when escalation is required
+* which uses are outside the intended scope
+* who remains accountable for the final decision
+
+The goal is not to create a universal list of GenAI rules.
+
+The goal is to demonstrate that **responsible adoption requires explicit boundaries**.
+
+---
+
+## Step 6 — Consider Monitoring
+
+The team decides to continue the workflow with additional controls.
+
+The learning experience does not end at deployment.
+
+### Prompt
+
+> What should the team monitor to determine whether the controls remain effective?
+
+Potential indicators include:
+
+* recurring output errors
+* omissions
+* inappropriate reliance on recommendations
+* changes in the workflow or operating context
+* user escalation patterns
+* evidence of unexpected impacts
+* cases where human review repeatedly identifies problems
+* situations in which the existing controls are no longer sufficient
+
+### Learning Purpose
+
+This reinforces the idea that responsible AI adoption is an **ongoing management activity**, not a one-time approval decision.
+
+---
+
+## Step 7 — Apply the AI RMF-Informed Lens
+
+The learner now revisits the scenario using the four functions as a structured reasoning lens.
+
+| AI RMF Function | Scenario Question                                                              |
+| --------------- | ------------------------------------------------------------------------------ |
+| **GOVERN**      | Who is responsible for the workflow, oversight, and final decisions?           |
+| **MAP**         | What is the intended use, context, affected population, and potential impact?  |
+| **MEASURE**     | What evidence can help evaluate reliability, limitations, and trustworthiness? |
+| **MANAGE**      | What boundaries, controls, escalation, or monitoring actions are appropriate?  |
+
+The functions help the learner organize the decision without turning the activity into a technical AI risk assessment.
+
+---
+
+## Step 8 — Make the Decision
+
+The learner must now provide a short decision rationale.
+
+### Final Prompt
+
+> **Would you continue, modify, restrict, or stop the AI-enabled workflow? Explain your decision.**
+
+A strong response should address:
+
+1. the intended use
+2. the relevant trustworthiness considerations
+3. the level of human oversight
+4. the evidence available
+5. the risks and trade-offs
+6. the boundaries required
+7. what should be monitored
+
+The learner is therefore evaluated not only on **what** decision is selected, but on **why**.
+
+---
+
+## Example of Strong Reasoning
+
+A strong learner response might conclude that the workflow can continue, but not under the original conditions.
+
+The reasoning could include:
+
+* The assistant provides productivity value.
+* The scenario provides evidence that outputs can contain omissions.
+* The consequences of relying on those outputs should determine the level of review.
+* Human reviewers need sufficient information and authority to challenge the output.
+* Certain uses may require stronger verification or escalation.
+* The organization should monitor recurring errors and inappropriate reliance.
+* The workflow should be reassessed if the context or observed risks change.
+
+This demonstrates a move from **tool acceptance** toward **controlled and context-aware adoption**.
+
+---
+
+## Facilitator Role
+
+The facilitator's role is not to immediately provide the "correct" answer.
+
+Instead, the facilitator can use questions that deepen the learner's reasoning.
+
+Examples:
+
+* What makes this output trustworthy enough for this use?
+* What evidence are you relying on?
+* What information is missing?
+* Who could be affected by this decision?
+* Who remains accountable?
+* What would meaningful human oversight look like here?
+* What would make you restrict this use case?
+* What should be monitored after adoption?
+* What would cause you to reconsider the decision?
+
+These questions encourage learners to **surface assumptions and examine evidence**.
+
+---
+
+## Learning Experience Flow
+
+The complete experience can be represented as:
+
+```text
+Workplace Scenario
+       ↓
+Recognize the Concern
+       ↓
+Clarify Context
+       ↓
+Examine Human Oversight
+       ↓
+Evaluate Trade-Offs
+       ↓
+Set Responsible Boundaries
+       ↓
+Define Monitoring
+       ↓
+Apply AI RMF-Informed Lens
+       ↓
+Make and Explain the Decision
+```
+
+This sequence connects the portfolio's instructional design to a practical workplace decision.
+
+---
+
+## Evidence of Learning
+
+The experience can generate several forms of evidence:
+
+| Learning Capability | Evidence                                                  |
+| ------------------- | --------------------------------------------------------- |
+| Recognize           | Identifies relevant trustworthiness concern               |
+| Identify            | Surfaces accountability, oversight, or reliability issues |
+| Question            | Challenges assumptions and missing evidence               |
+| Evaluate            | Considers competing priorities and uncertainty            |
+| Decide              | Selects a proportionate response                          |
+| Monitor             | Identifies what should be observed after adoption         |
+| Explain             | Provides reasoning for the selected decision              |
+
+This provides a direct connection between the **learning objectives**, **scenario design**, and **assessment approach** developed in the previous pages.
+
+---
+
+## Why This Is an AI Enablement Example
+
+The example demonstrates that AI enablement is not limited to teaching people how to operate a tool.
+
+The learning experience helps participants understand:
+
+* where AI can add value
+* where human judgment remains necessary
+* how trustworthiness considerations affect adoption
+* how to define responsible boundaries
+* how to recognize accountability gaps
+* how to think about monitoring after implementation
+
+The focus is therefore on **capability and adoption quality**, not technology enthusiasm.
+
+---
+
+## Design Boundary
+
+This example intentionally does not provide:
+
+* a universal AI governance checklist
+* a complete organizational implementation procedure
+* technical model-evaluation instructions
+* legal or regulatory requirements
+* a formal AI risk assessment
+* a complete facilitator script
+* proprietary prompts or implementation templates
+
+The purpose is to demonstrate the **learning architecture and decision logic** behind the experience.
+
+---
+
+## Portfolio Evidence
+
+This example demonstrates the ability to:
+
+* translate AI concepts into an engaging learning experience
+* design decision-based scenarios
+* connect workplace context to AI literacy
+* develop human oversight capability
+* incorporate responsible GenAI boundaries
+* integrate monitoring into adoption thinking
+* use AI RMF terminology without presenting it as a proprietary methodology
+* assess reasoning and decision quality
+* connect training design with practical AI adoption
+
+---
+
+## Scope
+
+This is a representative portfolio example.
+
+It demonstrates instructional design and AI enablement thinking rather than a claim of enterprise AI governance implementation.
+
+The experience is designed to help learners make **more informed, context-sensitive decisions about AI-enabled work** while recognizing the need for appropriate human expertise and organizational controls.
+
+---
+
+## Continue
+
+* [← Assessment Approach](05-assessment-approach.md)
+* [Next: Portfolio Reflection →](07-portfolio-reflection.md)
+* [Back to README](README.md)
