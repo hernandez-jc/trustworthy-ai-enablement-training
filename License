@@ -1,0 +1,82 @@
+# License
+
+## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+
+Unless otherwise stated, the original written content, learning-design materials, scenarios, diagrams, and other original portfolio materials in this repository are licensed under the:
+
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).**
+
+This license allows others to:
+
+* **Share** — copy and redistribute the material in any medium or format
+* **With attribution** — provided appropriate credit is given to the original creator
+
+Under the following conditions:
+
+* **Attribution** — appropriate credit must be given, a link to the license provided, and reasonable indication of whether changes were made.
+* **NonCommercial** — the material may not be used for commercial purposes.
+* **NoDerivatives** — modified, remixed, transformed, or adapted versions may not be distributed.
+
+### Portfolio-Specific Boundary
+
+This repository is intended as a professional portfolio demonstrating learning-design, AI enablement, responsible AI awareness, and scenario-based instructional design capability.
+
+The license does not grant permission to:
+
+* reproduce the portfolio as a commercial training product
+* adapt the scenarios or learning architecture into a competing commercial methodology
+* package the materials into paid courses, workshops, consulting deliverables, or other commercial offerings
+* present the author's original work as another person's work
+* remove attribution from redistributed material
+* imply endorsement, certification, affiliation, or professional authorization that does not exist
+
+### Reference Frameworks and Third-Party Materials
+
+References to external frameworks, standards, organizations, publications, trademarks, or other third-party materials remain subject to their respective terms and licenses.
+
+In particular, references to the **NIST AI Risk Management Framework (AI RMF)** do not imply that this portfolio is an official NIST publication, NIST-certified training program, or NIST-endorsed implementation.
+
+The AI RMF is used in this portfolio as an **informing conceptual and learning-oriented reference**.
+
+Third-party materials are not relicensed by this portfolio license.
+
+### Original Portfolio Materials
+
+The original portfolio content covered by this license includes, where applicable:
+
+* written explanations and instructional content
+* learning objectives
+* scenario designs
+* assessment approaches
+* learning-experience designs
+* original diagrams and visual concepts
+* portfolio-specific terminology and design structures
+* original examples and fictional scenarios
+
+Where a repository component is identified as having a different license or third-party ownership, that specific license or ownership statement takes precedence.
+
+### Attribution
+
+When referencing or sharing material from this repository, please attribute it to:
+
+**Juan C. Hernández-Moreno**
+
+and provide a reference to this repository.
+
+### Full License
+
+This repository uses the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+The full legal terms are available from Creative Commons:
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+---
+
+## Important Note About the Repository
+
+This license is intended to protect the original **content and learning-design materials** in the portfolio.
+
+It is not intended to prevent normal GitHub activities such as viewing, forking, or technically interacting with the repository where GitHub's platform functionality permits those activities.
+
+The license governs the permitted reuse of the copyrighted portfolio materials themselves.
